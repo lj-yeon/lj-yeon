@@ -87,4 +87,6 @@ B2B 마케팅 기획, 인쇄물·디지털 디자인, 영상 촬영·편집, 유
 
 ## 📫 Contact
 
-- **Email**: lj_yeon_@naver.com
+- **Email** : lj_yeon_@naver.com
+- **project** : https://portfolio-nkl.vercel.app/
+
